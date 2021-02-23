@@ -11,7 +11,21 @@
 
 - ` apt install python2 `
 
-- `git clone https://github.com/Tech-abm/Fb-Mafia`
+- `git clone apt update && apt upgrade
+
+apt install git
+
+apt install python2
+
+git clone https://github.com/Tech-abm/Fb-Mafia
+
+cd Fb-Mafia
+
+pip2 install mechanize
+
+pip2 install requests
+
+python2 Dark-Cloning.py`
 
 - `cd Fb-Mafia`
 
